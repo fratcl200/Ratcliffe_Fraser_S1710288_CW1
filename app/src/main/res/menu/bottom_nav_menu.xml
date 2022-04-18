@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cur_incidents"
+        android:title="Current Incidents"
+        android:icon="@drawable/ic_fragment1_foreground"/>
+    <item
+        android:id="@+id/cur_roadworks"
+        android:title="Current Roadworks"
+        android:icon="@drawable/ic_fragment2_foreground"/>
+    <item
+        android:id="@+id/plan_roadworks"
+        android:title="Planned Roadworks"
+        android:icon="@drawable/ic_fragment3_foreground"/>
+</menu>
